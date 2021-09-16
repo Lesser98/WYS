@@ -10,6 +10,6 @@ int main()
     cout << "**" << endl;
     cout << "*" << endl;
 
-    //추가
+    //추가 ,추가
     return 0;
 }
